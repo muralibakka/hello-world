@@ -1,0 +1,17 @@
+#btn{
+    background:blue;
+    width:200px;
+    border-top:0;
+    border-bottom: 0;
+    border-right: 0;
+    height:30px;
+    cursor:pointer;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
